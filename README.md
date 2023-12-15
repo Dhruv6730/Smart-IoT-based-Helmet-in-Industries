@@ -1,1 +1,2 @@
 # Smart-IoT-based-Helmet-in-Industries
+The project aims to reduce the casualties that are caused by improper safety measures that are placed in industries that deal with toxic gases, chemicals, and harsh working conditions. This is achieved by the Internet of Things Technology. A Smart Helmet equipped with multiple sensors collects data on the personnel and the surroundings, and a microcontroller unit is connected to process the data collected by these sensors. The data collected would be sent to the ThingSpeak cloud platform, to be monitored.
